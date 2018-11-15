@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+#everything that is defined in R is exported
